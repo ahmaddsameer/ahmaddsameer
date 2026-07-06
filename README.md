@@ -62,7 +62,7 @@ I enjoy building complete, functional products — from responsive front-end int
 
 **Backend & Databases**
 
-![Flask](https://img.shields.io/badge/Flask-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cloud, DevOps & Tooling**
