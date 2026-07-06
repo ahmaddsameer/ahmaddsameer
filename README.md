@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.71%2F10-7C3AED?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.82%2F10-7C3AED?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -62,13 +62,11 @@ I enjoy building complete, functional products — from responsive front-end int
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
